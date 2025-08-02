@@ -1,6 +1,6 @@
 # Conversor de Divisas en Java
 
-![Insignia del Challenge](images/Conversion1.png)
+![Evidencia](Conversion1.png)
 
 ## Descripción
 
@@ -30,6 +30,8 @@ El proyecto integra una API externa para obtener las tasas de cambio en tiempo r
 ---
 
 ## Instrucciones de Uso
+Menu interactivo donde podemos realizar diferentes conversiones en la moneda USD
+
 
 ### Clonación y preparación del entorno
 
