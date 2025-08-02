@@ -1,5 +1,7 @@
 # Conversor de Divisas en Java
 
+![Insignia del Challenge](images/Conversion1.png)
+
 ## Descripción
 
 Conversor de Divisas es una aplicación de consola desarrollada en Java que permite realizar conversiones precisas y actualizadas entre diferentes monedas: dólares estadounidenses (USD), pesos argentinos (ARS), reales brasileños (BRL) y pesos colombianos (COP). 
@@ -34,3 +36,4 @@ El proyecto integra una API externa para obtener las tasas de cambio en tiempo r
 ```bash
 git clone https://github.com/AlanSAndovalLoZA/conversor-divisas.git
 cd conversor-divisas/src
+
